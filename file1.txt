@@ -1,1 +1,2 @@
 file1.txt is edited on remote
+now also edited on local via myBranch1
